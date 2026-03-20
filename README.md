@@ -2,7 +2,7 @@
 
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](C:/Users/ashut/Downloads/1_Salary_Dashboard_Final_Dashboard.gif)
+![Salary Dashboard](1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 
